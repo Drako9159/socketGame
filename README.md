@@ -1,4 +1,4 @@
 ### Create game battlship
 #### Tools
-. socket.io
-. nodemon
+- socket.io
+- nodemon
